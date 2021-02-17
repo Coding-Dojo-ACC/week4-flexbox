@@ -1,3 +1,30 @@
 img {
-    width: 100px;
+    width: 200px;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav a {
+    padding: 2em;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.octocat {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
