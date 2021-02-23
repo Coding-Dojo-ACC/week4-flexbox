@@ -2,5 +2,6 @@
 
 1. Quick recap of what is due and coming up
 2. Flex Box
+3. Media Queries
 3. CSS Reset
 4. Recap
